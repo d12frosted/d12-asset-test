@@ -1,0 +1,38 @@
+:PROPERTIES:
+:ID:                     ca5ca311-b2c6-4bac-a2db-dfc2a2cb8370
+:END:
+*1024px*
+
+#+begin_html
+<img src="d12.png">
+#+end_html
+
+*512px*
+
+#+begin_html
+<img width="512px" src="d12.png">
+#+end_html
+
+*256px*
+
+#+begin_html
+<img width="256px" src="d12.png">
+#+end_html
+
+*128px*
+
+#+begin_html
+<img width="128px" src="d12.png">
+#+end_html
+
+*64px*
+
+#+begin_html
+<img width="64px" src="d12.png">
+#+end_html
+
+*32px*
+
+#+begin_html
+<img width="32px" src="d12.png">
+#+end_html
